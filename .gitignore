@@ -1,2 +1,2 @@
-src/resources/kvstore.bin
+target
 /src/main/resources/kvstore.bin
